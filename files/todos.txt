@@ -1,0 +1,4 @@
+Learn Python 
+Learn Modern C++
+Finish Deep Learning project
+Clean the Room
